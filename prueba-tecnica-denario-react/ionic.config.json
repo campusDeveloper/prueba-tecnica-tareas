@@ -1,0 +1,7 @@
+{
+  "name": "prueba-tecnica-denario-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
